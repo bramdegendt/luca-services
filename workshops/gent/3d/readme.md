@@ -2,7 +2,6 @@
 
 ## Openingsuren / Opening hours
 |                      | Voormiddag / Morning | Namiddag / Afternoon | Avond / Evening      |
-
 | -------------        | -------------        | -------------        | -------------        |
 | Maandag / Monday     | Gesloten / Closed	  | Gesloten / Closed	   | Gesloten / Closed	  |
 | Dinsdag / Tuesday    | 09:00 - 12:30        | 13:00 - 17:00      	 | Gesloten / Closed	  |
